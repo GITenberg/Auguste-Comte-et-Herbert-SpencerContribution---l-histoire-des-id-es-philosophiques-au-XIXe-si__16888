@@ -1,0 +1,34 @@
+_repo: Auguste-Comte-et-Herbert-SpencerContribution---l-histoire-des-id-es-philosophiques-au-XIXe-si__16888
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Roberty, E. de (Eugène)
+    aliases:
+    - Roberty, Eugène de
+    - De Roberty, E. (Eugène)
+    - Roberty, E. de (Eugene)
+    birthdate: 1843
+    deathdate: 1915
+    gutenberg_agent_id: '6998'
+    url: http://www.gutenberg.org/2009/agents/6998
+description: ''
+gutenberg_bookshelf: FR Philosophie, Religion et Morale
+gutenberg_issued: '2005-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16888'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Comte, Auguste, 1798-1857'
+- !lcsh 'Spencer, Herbert, 1820-1903'
+title: 'Auguste Comte et Herbert Spencer
+
+  Contribution à l''histoire des idées philosophiques au XIXe siècle'
+url: http://www.gutenberg.org/ebooks/16888
