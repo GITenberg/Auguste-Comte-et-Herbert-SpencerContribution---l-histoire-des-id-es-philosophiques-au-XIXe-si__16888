@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '6998'
     url: http://www.gutenberg.org/2009/agents/6998
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16888#Auguste-Comte-et-Herbert-SpencerContribution---l-histoire-des-id-es-philosophiques-au-XIXe-si_
 gutenberg_bookshelf: FR Philosophie, Religion et Morale
 gutenberg_issued: '2005-10-16'
 gutenberg_type: Text
